@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "676cab232bb152c141b8fe1c"
+  },
+  "PlayerID": "001",
+  "first name": "Miku",
+  "last name": "Hatsune",
+  "age": "25",
+  "email": "mikudayo@gmil.com",
+  "position": "striker",
+  "status": "contract",
+  "pay-per-season": "Rp 100.000.000.000",
+  "ClubID": "3489108"
+},
+{
+  "_id": {
+    "$oid": "676cab932bb152c141b8fe24"
+  },
+  "PlayerID": "002",
+  "first name": "Rin",
+  "last name": "Kagamine",
+  "age": "23",
+  "email": "Rindayo@gmil.com",
+  "position": "goal keeper",
+  "status": "contract",
+  "pay-per-season": "Rp 100.000.000.000",
+  "ClubID": "3489108"
+},
+{
+  "_id": {
+    "$oid": "676cabc72bb152c141b8fe25"
+  },
+  "PlayerID": "003",
+  "first name": "Len",
+  "last name": "Kagamine",
+  "age": "23",
+  "email": "Lendesu@gmil.com",
+  "position": "Defense",
+  "status": "contract",
+  "pay-per-season": "Rp 100.000.000.000",
+  "ClubID": "3489108"
+}]
